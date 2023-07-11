@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**gunjali-v/gunjali-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/110452869?v=4?v=4&h=300&w=300&fit=cover&mask=circle" />
+  <br />
+  <b>Passionate Software Engineer | Open Source Enthusiast | Tech Explorer</b>
+</p>
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there! I'm Gunjali Vakte, a passionate Software Engineer with a keen interest in building innovative and user-friendly applications. My journey in the tech
+
+- 🔭 I’m currently working on exciting projects using React, Next.js, and Node.js.
+- 🌱 I’m currently learning and expanding my skillset to keep up with the latest trends in the tech industry.
+- 👯 I’m looking to collaborate on open-source projects that make a positive impact.
+- 💬 Ask me about web development, data structures, or anything related to tech!
+- 📫 How to reach me: gunjali.vakte@techiegent.com
+
