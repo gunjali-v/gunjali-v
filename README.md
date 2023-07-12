@@ -16,3 +16,14 @@ Hello there! I'm Gunjali Vakte, a passionate Software Engineer with a keen inter
 - 💬 Ask me about web development, data structures, or anything related to tech!
 - 📫 How to reach me: gunjali.vakte@techiegent.com
 
+## Tech Stack 🛠️
+
+Here are some of the technologies and tools I'm proficient in:
+
+- **Frontend:** HTML5, CSS3, JavaScript, React, Redux
+- **Backend:** Node.js, Express.js, Nest.js, Fastify
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase Realtime Database, Firestore
+- **Cloud:** AWS, Firebase
+- **Version Control:** Git, GitHub, BitBucket, GitLab
+- **DevOps:** Docker, Jenkins, Nginx, Apache2, OpenSSL, GitHub Actions, Shell Script
+- **Others:** TypeScript, RESTful APIs, GraphQL, Socket, Microservices
