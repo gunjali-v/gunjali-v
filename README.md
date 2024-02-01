@@ -13,7 +13,7 @@ Hello there! I'm Gunjali Vakte, a passionate Software Engineer with a keen inter
 - 🔭 I’m currently working on exciting projects using React, Next.js, and Node.js.
 - 🌱 I’m currently learning and expanding my skillset to keep up with the latest trends in the tech industry.
 - 👯 I’m looking to collaborate on open-source projects that make a positive impact.
-- 💬 Ask me about web development, data structures, or anything related to tech!
+- 💬 Ask me about web development, data structures, or anything related to tech.
 - 📫 How to reach me: gunjali.vakte@techiegent.com
 
 ## Tech Stack 🛠️
